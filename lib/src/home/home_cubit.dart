@@ -1,3 +1,2 @@
-class HomeState {}
-
-class HomeCubit extends Cubit<HomeState> {}
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:equatable/equatable.dart';
